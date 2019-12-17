@@ -55,8 +55,7 @@ You can also indent one kind of list under another as done in this slide.  To ma
 name:workshop-slides
 # Viewing Workshop Slides
 #### You can view workshop slides with URLs like this:
-* https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
-* https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-enterprise/index.html
+* https://hashicorp.github.io/micron-vault-workshop/slides/multi-cloud/vault
 
 
 ???
