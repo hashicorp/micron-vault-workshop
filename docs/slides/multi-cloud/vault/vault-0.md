@@ -27,7 +27,7 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://hashicorp.github.io/micron-vault-workshop/slides/multi-cloud/vault-oss
 
 ???
 
